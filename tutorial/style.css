@@ -67,6 +67,10 @@ header h1 {
   cursor: pointer;
 }
 
+.edit-mode {
+    color: #ccc;
+}
+
 .btn:hover {
   background-color: #444;
 }
